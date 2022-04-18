@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Crypto Connect",
-    "slug": "crypto-connect",
+    "name": "CRYPIS_V",
+    "slug": "CRYPIS_V",
     "version": "1.0.0",
     "orientation": "portrait",
     "githubUrl": "https://github.com/justinkx/crypto-connect.git",
@@ -14,10 +14,12 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.crypto.connect.project",
+      "bundleIdentifier": "com.crypis.vixis.project",
       "buildNumber": "1.0.0"
     },
     "android": {
@@ -25,7 +27,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.crypto.connect.project",
+      "package": "com.crypis.vixis.project",
       "versionCode": 1
     },
     "web": {

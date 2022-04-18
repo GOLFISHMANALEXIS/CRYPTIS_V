@@ -18,6 +18,7 @@
     "date-fns": "^2.21.2",
     "expo": "~41.0.1",
     "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.5.4",
     "hoist-non-react-statics": "^3.3.2",
     "lodash": "^4.17.21",
     "memoize-one": "^5.2.1",
